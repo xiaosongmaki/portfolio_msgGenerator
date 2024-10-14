@@ -1,12 +1,13 @@
 {
-  "name": "message-generator",
+  "name": "programmer-joke-generator",
   "version": "1.0.0",
-  "description": "一个简单的JavaScript消息生成器",
+  "description": "一个专门为程序员设计的笑话生成器",
   "main": "src/messageGenerator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/messageGenerator.js",
+    "test": "echo \"Error: 测试? 我们不需要测试!\" && exit 1"
   },
-  "keywords": ["message", "generator", "javascript"],
-  "author": "您的名字",
+  "keywords": ["程序员", "笑话", "幽默", "javascript", "generator"],
+  "author": "一个有趣的程序员",
   "license": "MIT"
 }
