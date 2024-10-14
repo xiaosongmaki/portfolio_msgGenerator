@@ -1,0 +1,12 @@
+{
+  "name": "message-generator",
+  "version": "1.0.0",
+  "description": "一个简单的JavaScript消息生成器",
+  "main": "src/messageGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["message", "generator", "javascript"],
+  "author": "您的名字",
+  "license": "MIT"
+}
